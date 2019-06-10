@@ -1,2 +1,4 @@
 *.ps1
 static_file_server
+*.json
+*.exe
